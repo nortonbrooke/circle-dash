@@ -1,0 +1,9 @@
+.page {
+  padding: 10px;
+  font-family: var(--font-geist-sans);
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+}
